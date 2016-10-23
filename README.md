@@ -1,8 +1,14 @@
 create github pull....
+
 in local sgit steve create new branch
+
 commit...
+
 push to origin..
-in github steve go to   pushed branch   ..create pull request...
+
+0in github steve go to pushed branch   
+
+..create pull request...
 
 
 
