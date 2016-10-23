@@ -1,12 +1,13 @@
-create github pull....
+to create github pull.... for new content 
+pushed from local sgit...
 
-in local sgit steve create new branch
+in sgit app   steve create new branch
 
 commit...
 
 push to origin..
 
-0in github steve go to pushed branch   
+in github steve go to pushed branch   
 
 ..create pull request...
 
