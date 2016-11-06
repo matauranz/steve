@@ -1,20 +1,19 @@
 to create github pull.... for new content 
 pushed from local sgit...
 
-in sgit app   steve create new branch
-
+in sgit app..   project steve    create new branch
+do edits..
 commit...
-
 push to origin..
 
-in github steve go to pushed branch   
-
+in github..  project steve go to pushed branch   
 ..create pull request...
 
 
 
 
 
+using git command line......
 https://github.com/matauranz/steve
 
 GitPatch
