@@ -1,4 +1,4 @@
-to create github pull.... for new content 
+To create github pull.... for new content 
 pushed from local sgit...
 
 in sgit app..   project steve    create new branch
