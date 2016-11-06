@@ -1,1 +1,2 @@
 1 news
+fix issue 2
