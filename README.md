@@ -10,7 +10,7 @@ in github..  project steve go to pushed branch
 ..create pull request...
 
 
-
+http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/
 
 
 using git command line......
