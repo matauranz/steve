@@ -1,3 +1,5 @@
+mon 20/02/2017....
+
 To create github pull.... for new content 
 pushed from local sgit...
 
@@ -29,6 +31,3 @@ Step 2: Merge the changes and update on GitHub.
 git checkout master 
 git merge --no-ff matauranz-patch-2 
 git push origin master
-
-
-
