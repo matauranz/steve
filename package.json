@@ -1,0 +1,9 @@
+{ 
+"name": "my-echo-server", "preferGlobal": true, "version": "0.0.1", 
+"author": "Mat <matauranz@gmail.com>", 
+"description": "a simple web server ...",
+"license": "MIT",
+"engines": { "node": ">=0.10" }, 
+"scripts": { "start": "node ./echoplus.js" }, 
+"dependencies": { "express": "~3.4.7", "json-lint": "~0.1.0" } 
+}
